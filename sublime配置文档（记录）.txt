@@ -1,0 +1,7 @@
+sublime配置文档（记录）
+
+boxy theme 主题
+BracketHighlighter 高亮括号匹配
+DocBlockr 生成类似javadoc注释
+SyncedSideBar 实时更新侧边栏中的文件夹和文件。
+ConvertToUTF8 支持编译中文等文件
